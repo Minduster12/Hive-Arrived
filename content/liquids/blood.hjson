@@ -1,0 +1,9 @@
+ type: liquid
+ name: Blood
+ description: A viscous liquid that flows through the bodies of insectoids. It is used to power buildings.
+ color: a60000
+ flammability: 0
+ temperature: 0
+ heatCapacity: 0
+ viscosity: 0.8
+ explosiveness: 0
