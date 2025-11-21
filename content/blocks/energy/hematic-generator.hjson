@@ -1,4 +1,4 @@
-localizedName: Hematic generator
+name: Hematic generator
 description: Uses blood to generate energy.
 type: ConsumeGenerator
 category: power
@@ -36,4 +36,5 @@ requirements: [
     "metaglass/50"
     "titanium/50"
     "silicon/100"
+
 ]
