@@ -1,7 +1,7 @@
 # Hive Arrived!
 
 ## Overview
-A small mod that adds an insectoid race to the game.
+A small (probably) mod that adds an insectoid race to the game.
 
 This mod does not add insectoids as a separate, playable faction, as that is currently impossible within Mindustry's mechanics. However, nothing stops you from using it for role-playing or building a formicarium next to your factory! :D
 
